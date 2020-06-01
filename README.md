@@ -1,15 +1,7 @@
-# My-Website
+# Starter Web Repo
 
-This is an awesome website.
-
-Updates made on master on Github before rebase.
-
- Repository Purpose
- 
-This file is just a readme file.
+This repository is for showing how Git and Github work
 
 ## Purpose
 
-The purpose of this file is to provide examples 
-on how to use Git and Github together.
-
+Sample website with plenty of files for demos
